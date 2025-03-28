@@ -1,6 +1,6 @@
 # THIS IS MY CHEAT_SHEET FOR AWS-CDK USING TS
 
-## There are created samples of services and where it everything comes from
+## There are created samples of services and where everything comes from
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
