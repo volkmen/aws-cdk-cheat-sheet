@@ -1,8 +1,7 @@
-# Welcome to your CDK TypeScript project
-
-This is a blank project for CDK development with TypeScript.
+# THIS IS MY CHEAT_SHEET FOR AWS-CDK USING TS
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
+There are created samples of services and where it everything comes from
 
 ## Useful commands
 
